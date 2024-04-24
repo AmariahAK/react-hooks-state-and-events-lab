@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ShoppingList from "./ShoppingList";
 import itemData from "../data/items";
-import "./index.css"; // Import your CSS file for styles
+import "./App.css"; // Import your CSS file for styles
 
 function App() {
   // State variable to track dark mode
